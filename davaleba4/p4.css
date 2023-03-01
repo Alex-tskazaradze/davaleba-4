@@ -1,0 +1,49 @@
+@font-face{
+    font-family: "inter";
+    src: url("./Inter.ttf");
+}
+.hsp{
+    text-align: center;
+    font-size: 20px;
+    font-family: "inter";
+}
+.p1{
+    padding-left: 320px;
+    font-size: 16px;
+    font-family: "inter";
+    width: 1345px;
+    height: 158px;
+}
+h1{
+    padding-left: 320px;
+    font-size: 20px;
+    font-family: "inter"; 
+}
+.p2{
+    padding-left: 320px;
+    font-size: 16px;
+    font-family: "inter";
+    width: 1363px;
+    height: 202px; 
+}
+.p3{
+    padding-left: 320px;
+    font-size: 16px;
+    font-family: "inter";
+    width: 1349px; 
+    height: 167px;
+}
+.p4{
+    padding-left: 320px;
+    font-size: 16px;
+    font-family: "inter"; 
+    width: 1327px;
+    height: 212px;
+}
+.p5{
+    padding-left: 320px;
+    font-size: 16px;
+    font-family: "inter";
+    width: 1318px;
+    height: 212px;
+}
